@@ -4,6 +4,8 @@
 > This is a budget app that helps yoou keep track of your expenses
 
 
+## demo video
+https://www.loom.com/share/3802e678ac0a4118965be1f5736fa116
 ## technologies
 
 -ruby
@@ -69,6 +71,7 @@ Give us stars and share it with your friends ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+- Gregoire Vella  the author of the original design.
 
 ## 📝 License
 

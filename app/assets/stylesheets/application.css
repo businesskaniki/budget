@@ -21,7 +21,12 @@
 }
 
 .cat-color {
-  background-color: rgb(31, 31, 156);
+  background-color: #5fb523;
+};
+
+.tex a {
+  text-decoration: none;
+  color: gray;
 }
 
 .footer-main {
@@ -30,7 +35,7 @@
 }
 
 .main-bg {
-  background-color: rgb(74, 71, 71);
+  background-color: #3778c2;
 }
 
 .img {

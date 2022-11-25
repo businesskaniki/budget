@@ -15,7 +15,7 @@
       <div class="card w-100 mb-3 d-flex flex-row align-items-center justify-content-between">
         <div class="card-body d-flex flex-row align-items-center justify-content-between">
             <%= image_tag group.icon, class:'img' %>
-          <%= link_to group.name, user_group_path(current_user.id, group.id), class:'fs-5' %>
+          <p class='tex'><%= link_to group.name, user_group_path(current_user.id, group.id) %></p>
           <p class="card-text text-bold h6"><strong>$<%= Group.total_spending(group.id) %></strong></p>
         </div>
       </div>
