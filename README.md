@@ -1,11 +1,15 @@
-# BLOG APP
+# BUDGET
 
 
 > This is a budget app that helps yoou keep track of your expenses
 
 
-## demo video
+## demo videos  
+
+## UI show
 https://www.loom.com/share/3802e678ac0a4118965be1f5736fa116
+## Code show
+https://www.loom.com/share/811d4cf923994868b07f7aba6a0df978
 ## technologies
 
 -ruby
